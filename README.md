@@ -11,5 +11,5 @@ O script tem duas versões, a que é executada com selenium webdriver e a que é
 # Agradecimentos:
 
 ```text
-SCP em geral - CelotHUB - s7m4n - Policia Federal;
+SCP em geral - CelotHUB - s7m4n - IroniaTheMaster - Policia Federal;
 ```
